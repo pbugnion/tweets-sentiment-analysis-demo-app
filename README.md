@@ -16,6 +16,12 @@ In the `app/` directory, run:
 python app.py
 ```
 
+This will open the application on port 8888. Navigate with your browser to:
+
+```
+http://localhost:8888
+```
+
 You can find sample CSVs to upload at:
 - [larger dataset](http://fileshare.pascalbugnion.net/tweets-sentiment-analysis/all-tweets.csv): this contains about 18,000 tweets.
 - [subsampled dataset](http://fileshare.pascalbugnion.net/tweets-sentiment-analysis/subsampled-tweets.csv): this contains about 15,00 tweets.
