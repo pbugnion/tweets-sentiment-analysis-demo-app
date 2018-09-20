@@ -1,7 +1,10 @@
 
 # Demo Plotly Dash application
 
-Demo application demonstrating creating a very simple Plotly Dash application. This application was presented at ODSC Europe in September 2018.
+Demo application demonstrating creating a very simple [Plotly
+Dash](https://plot.ly/products/dash/) application. This application
+was presented at [ODSC Europe](https://odsc.com/london) in September
+2018.
 
 ![](screenshot.png)
 
