@@ -10,7 +10,14 @@ was presented at [ODSC Europe](https://odsc.com/london) in September
 
 ## Running the application
 
-In the `app/` directory, run:
+To install the dependencies, run the following in the root directory:
+
+```
+pip install -r requirements.txt
+python -c "import nltk ; nltk.download('vader_lexicon')"
+```
+
+To start the application, run the following in `app/`:
 
 ```
 python app.py
